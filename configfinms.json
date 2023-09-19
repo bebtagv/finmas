@@ -1,0 +1,180 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "ironsource",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#958708258174801_1255091365203154",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#958708258174801_1255091548536469",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#958708258174801_1255091851869772",
+      "startapp_app_id": "0",
+      "unity_game_id": "1445444c1",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "1a6912d95",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips Pinjaman Online Finmas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Tentang Finmas Pinjaman Onlin",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F1%20Tentang%20Finmas%20Pinjaman%20Online.html?alt=media&token=72fd8ede-3aa2-4c70-b5ee-6ea2fce5cd5e",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Kelebihan Finmas Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F2%20Kelebihan%20Finmas%20Pinjaman%20Online.html?alt=media&token=c70db48d-c681-4fe6-84c5-9bd8bba1c217",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Panduan Lengkap Cara Daftar Finmas Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F3%20Panduan%20Lengkap%20Cara%20Daftar%20Finmas%20Pinjaman%20Online.html?alt=media&token=1d19920c-b878-4824-9ea1-ea875633bde4",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Simulasi Perhitungan Bunga dan Pengembalian Aplikasi Finmas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F4%20Simulasi%20Perhitungan%20Bunga%20dan%20Pengembalian%20Aplikasi%20Finmas.html?alt=media&token=abc94650-f172-4c27-a564-8312ede469dd",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Cara Menghubungi Admin Finmas Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F5%20Cara%20Menghubungi%20Admin%20Finmas%20Pinjaman%20Online.html?alt=media&token=2c2576f8-b3e6-4d37-ab47-c7704b6945d5",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Daftar Aplikasi Pinjaman Online Dengan Tenor 1 Bulan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F6%20Daftar%20Aplikasi%20Pinjaman%20Online%20Dengan%20Tenor%201%20Bulan.html?alt=media&token=9c617875-2c8d-4c8e-a391-d10c47f8364c",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Resiko Tidak Membayar Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F7%20Resiko%20Tidak%20Membayar%20Pinjaman%20Online.html?alt=media&token=46fbae03-e522-4a5c-a619-df7e420a7fd5",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Daftar Lender Pinjaman Online dengan Bunga Rendah",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F8%20Daftar%20Lender%20Pinjaman%20Online%20dengan%20Bunga%20Rendah.html?alt=media&token=0507efde-a35b-424f-bb1b-eea731a5893c",
+      "video": ""
+    },{
+      "id": 9,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Daftar Lender Pinjaman Online Dengan Tenor Panjang",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F9%20Daftar%20Lender%20Pinjaman%20Online%20Dengan%20Tenor%20Panjang.html?alt=media&token=ac18cfab-e574-42e3-bc48-28d8a75c231f",
+      "video": ""
+    },{
+      "id": 10,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Cara Mengetahui Pinjaman Online Terpercaya",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F10%20Cara%20Mengetahui%20Pinjaman%20Online%20Terpercaya.html?alt=media&token=255f6da8-df1a-484d-89e6-a4af0340fe3e",
+      "video": ""
+    },{
+      "id": 11,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Info Daftar Lender Pinjaman Tenor Harian",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F11%20Info%20Daftar%20Lender%20Pinjaman%20Tenor%20Harian.html?alt=media&token=9b5490ab-7b38-4991-a464-4ce9965e9e2c",
+      "video": ""
+    },{
+      "id": 12,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Info Daftar Lender Pinjaman Tenor Mingguan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F12%20Info%20Daftar%20Lender%20Pinjaman%20Tenor%20Mingguan.html?alt=media&token=a52967a6-4531-4c2e-a423-23fab465d681",
+      "video": ""
+    },{
+      "id": 13,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Pinjaman Tunai Aman di Indonesia",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F13%20Pinjaman%20Tunai%20Aman%20di%20Indonesia.html?alt=media&token=cb71e6cd-e6cf-4f07-a447-552d60a585bd",
+      "video": ""
+    },{
+      "id": 14,
+      "category": "Tips Pinjaman Online Finmas",
+      "title": "Daftar Lender Pinjaman Online Terpercaya di Indonesia",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2Fbannerfnmas.png?alt=media&token=d06990f3-3d0b-4400-9181-b55cf83349ce",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/finms%2F14%20Daftar%20Lender%20Pinjaman%20Online%20Terpercaya%20di%20Indonesia.html?alt=media&token=cab28b43-6987-44a6-a14a-8fdcb6a74a4e",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
