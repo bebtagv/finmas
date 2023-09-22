@@ -35,7 +35,7 @@
       "ad_manager_app_open_unit_id": "/6499/example/app-open",
       "fan_banner_unit_id": "958708258174801_1255091365203154",
       "fan_interstitial_unit_id": "958708258174801_1255091548536469",
-      "fan_native_unit_id": "",
+      "fan_native_unit_id": "0",
       "startapp_app_id": "0",
       "unity_game_id": "1445444c1",
       "unity_banner_placement_id": "banner",
